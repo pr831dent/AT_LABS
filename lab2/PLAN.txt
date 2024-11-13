@@ -1,0 +1,13 @@
+1. What function should be here?:
+Matrix addition
+Matrix multiplication
+Matrix Transpose
+Finding the determinant
+Inverse matrix
+
+2. Write tests                              -- y
+3. Run tests                                -- y
+4. Implementation of minimal functionality  -- y
+5. Re-run tests                             -- y
+6. Refactoring                              -- y
+5. Re-run tests                             -- y
